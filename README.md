@@ -8,6 +8,9 @@ We will use this function to create a logo of the user's choice, that is saved a
 However, the code is first first tested using [jest](https://www.npmjs.com/package/jest) another node package.
 
 
+[Here](https://drive.google.com/file/d/1HJ8FugCMHDR5JIUAthkHPKI1z8VFitfL/view) is a video link on how it all runs.
+
+
 ## Installation
 
 N/A, the code is ran in the vscode terminal.
